@@ -12,7 +12,7 @@ url: "https://sevragorgia.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: ""
 
 # Google tracking id to track your visitors
 
@@ -30,8 +30,8 @@ force-https: True
 
 lang: "en"
 author: "Sergio Vargas"
-title: "{ rlog }"
-description: "personal website and R recipes"
+title: "rlog"
+description: "personal notes and R recipes"
 keywords: "R"
 favicon: "/img/favicon.ico"
 
