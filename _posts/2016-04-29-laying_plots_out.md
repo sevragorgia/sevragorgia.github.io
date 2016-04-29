@@ -11,11 +11,13 @@ if you need to plot different figure on the same page use the following syntax.
 
 {% highlight r %}
 
+my_mean<-30
+
 par(mfrow=c(1,2))
 
-plot(function(x) dnorm(x, 30, 15), -20, 80, ylab="Density", xlab="Size", col="dark green", lwd=2)
+plot(function(x) dnorm(x, my_ean, 15), -20, 80, ylab="Density", xlab="Size", col="dark green", lwd=2)
 
-plot(function(x) dlnorm(x, log(30), 1.5), 0, 80, ylab="Density", xlab="Size", col="blue", lwd=2)
+plot(function(x) dlnorm(x, log(my_mean), 1.5), 0, 80, ylab="Density", xlab="Size", col="blue", lwd=2)
 
 {% endhighlight %}
 
