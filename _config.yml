@@ -149,6 +149,10 @@ social:
     url: "https://github.com/sevragorgia"
   #- title: "bitcoin"
   #  url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/sergio-vargas-36961653"
+  - title: "Google Scholar"
+    url: "https://scholar.google.com/citations?user=OAcpy4EAAAAJ&hl=en"
   - title: "rss"
     url: "/feed.xml"
 
