@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text, add line using - text: "sentence."
   - text: "Life is a great balancing act."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/author.jpeg"
 
 ##############################
 # Color the browser elements #
