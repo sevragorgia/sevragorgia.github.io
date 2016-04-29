@@ -9,7 +9,7 @@ tags: [ 'R', 'Plots' ]
 if you need to plot different figure on the same page use the following syntax.
 
 
-{% highlightin r %}
+{% highlighting r %}
 
 par(mfrow=c(1,2))
 
