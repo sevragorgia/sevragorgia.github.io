@@ -101,7 +101,9 @@ google-plus-share: True
 
 disqus-shortname: "sevrarlog"
 
-syntax-highlight: True
+syntax-highlight: False
+
+highlighter: "Rouge"
 
 ############
 # Timeline #
