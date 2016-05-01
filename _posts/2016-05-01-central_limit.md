@@ -10,7 +10,7 @@ I am not a matematician. I have, however, to teach my students about some import
 
 I ussually do this using an animation I created using the R package 'animation'. The code goes:
 
-{{ % highlight % }}
+{ % highlight % }
 
 library(animation)
 
@@ -44,7 +44,7 @@ saveGIF({
   }
 }, interval=0.2, movie.name = "Central_Teorem.gif", ani.width=800, ani.height=600)
 
-{{ % endhighlight% }}
+{ % endhighlight% }
 
 you will have an animated gif (i.e. Central_Teorem.gif) looking like this:
 
