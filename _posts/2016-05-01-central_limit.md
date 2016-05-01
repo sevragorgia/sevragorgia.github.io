@@ -10,7 +10,7 @@ I am not a matematician. I have, however, to teach my students about some import
 
 I ussually do this using an animation I created using the R package 'animation'.
 
-[central_teorem]({{ site.url }}/img/Central_Teorem.gif)
+![central_teorem]({{ site.url }}/img/Central_Teorem.gif)
 
 
 
