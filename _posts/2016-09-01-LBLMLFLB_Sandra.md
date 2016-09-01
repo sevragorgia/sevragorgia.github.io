@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Lo Bueno, lo malo, lo feo (y lo bonito) by Sandra L. Ament-Vel'asquez
+title: Lo Bueno, lo malo, lo feo (y lo bonito) by Sandra L. Ament-Velásquez
 category: Students
 tags: [ 'Students', 'LBLMLFLB' ]
 ---
@@ -30,7 +30,7 @@ Lo feo:
 I cannot think of anything :P
 
 Lo bonito:
-Ese acuario con coralitos ¡qu'e preciosura!
+Ese acuario con coralitos ¡qué preciosura!
 
 **Note:**
 I originally had only Lo Bueno, lo malo y lo feo (like in The Good, the bad and the uggly). Lo Bonito is Sandra's invention, and I am keeping it.
