@@ -8,9 +8,9 @@ tags: [ 'Students', 'LBLMLFLB' ]
 
 Sandra, aka Lore ---apparently I am the only person in this world who calls her Sandra--- came to the lab in the summer of 2013. At that point in time she was a MEME student. She worked with me on the molecular systematics of eastern Pacific octocorals. We had several individuals currently classified within the genus *Leptogorgia* that grouped inside the genus *Pacifigorgia* or somewhere else in the phylogeny and Sandra invested her summer in Munich sequencing the 28S rDNA of a bunch of samples to see if the phylogeny based on nuclear markers provided the same information or was not congruent with the mitochondrial DNA.
 
-She successeded on her task and managed to write a nice manuscript on the topic; the manuscript was published in Molecular Phylogenetics and Evolution in 2016 and can be found [http://www.sciencedirect.com/science/article/pii/S1055790316000671](here). 
+She successeded on her task and managed to write a nice manuscript on the topic; the manuscript was published in Molecular Phylogenetics and Evolution in 2016 and can be found [here](http://www.sciencedirect.com/science/article/pii/S1055790316000671). 
 
-Sandra is now in Uppsala at the Dept. of Organismal Biology working on the evolutionary genomics of meiotic drive in Fungy for her PhD. More on Sandra can be found [https://www.researchgate.net/profile/Sandra_Ament](here). You can also follow here on twitter, just look for @LoreAment.
+Sandra is now in Uppsala at the Dept. of Organismal Biology working on the evolutionary genomics of meiotic drive in Fungy for her PhD. More on Sandra can be found [here](https://www.researchgate.net/profile/Sandra_Ament). You can also follow here on twitter, just look for @LoreAment.
 
 Below her feedback on her time in the lab:
 
